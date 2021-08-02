@@ -50,7 +50,7 @@ Outlet_Type: Whether the outlet is just a grocery store or some sort of supermar
 ItemOutletSales: Sales of the product in the particular store. This is the outcome variable to be predicted.
 
 
-
+___________________________________________________________________________________________________________________________________________
 
 
 OBJECTIVES OF THIS PROJECT:-
@@ -68,7 +68,7 @@ Build a regression model to predict the outlet sales
 
 
 
-
+_______________________________________________________________________________________________________________________________________________________
 
 
 
@@ -86,6 +86,7 @@ Naive Bayes (NB).
 Support Vector Machines (SVM).
 
 
+___________________________________________________________________________________________________________________________________________________
 
 In this project excersie, i learn to use a step-by-step on machine learning project using Python.
 Based on the study, sales predict problem can be examined by using machine learning metholodgies across different alogrithms
